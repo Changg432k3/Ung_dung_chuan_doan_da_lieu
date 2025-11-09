@@ -1,5 +1,7 @@
 # Ung_dung_chuan_doan_da_lieu
 # Ứng dụng công nghệ số trong chẩn đoán và điều trị các bệnh da liễu
+<img width="1842" height="880" alt="image" src="https://github.com/user-attachments/assets/8a938f1a-864d-47fa-8bb4-478326a63b47" />
+
 
 ## Mô tả dự án
 Dự án này là một **ứng dụng công nghệ số** nhằm hỗ trợ chẩn đoán và điều trị các bệnh da liễu. Ứng dụng tích hợp các công nghệ nhận diện hình ảnh và phân tích dữ liệu y tế để cung cấp thông tin, chẩn đoán sơ bộ và hướng dẫn điều trị cho người dùng.  
