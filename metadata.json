@@ -1,0 +1,5 @@
+{
+  "name": "AI Skin Diagnosis",
+  "description": "An AI-powered application for diagnosing skin conditions. Users can upload images or describe symptoms to receive potential diagnoses, information, and personalized skincare recommendations from Gemini.",
+  "requestFramePermissions": []
+}
